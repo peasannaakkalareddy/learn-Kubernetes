@@ -5,7 +5,7 @@ metadata:
 data:
   URL: ZXhhbXBsZS5jb20=
   SUB_URL: c3ViLmV4YW1wbGUuY29t
-  DOMAIN: .com
+  DOMAIN: LmNvbQ
 ---
 apiVersion: v1
 kind: Pod
